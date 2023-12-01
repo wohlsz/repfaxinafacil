@@ -13,5 +13,5 @@
 - Tecnologias utilizadas
 - Pessoas Contribuidoras
 - Pessoas Desenvolvedoras do Projeto
-- Licença pfv
+- Licença 
   
