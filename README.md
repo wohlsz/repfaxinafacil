@@ -8,13 +8,12 @@
 </p>
 
 # Equipe
-
-- Guilherme Magalhaes
-- Lucas Eduardo
-- Tiago Felix
-- Alehandro Henrique
-- Amanda Lourdes
-- Luiz Neto
+  Guilherme Magalhaes 
+  Lucas Eduardo
+  Tiago Felix
+  Alehandro Henrique
+  Amanda Lourdes
+  Luiz Neto
 
 - Descrição do projeto
 - Funcionalidades e Demonstração da Aplicação
