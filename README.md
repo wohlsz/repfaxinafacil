@@ -5,7 +5,12 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-- equipe
+<h1 align="center"> equipe </h1>
+Guilherme Magalhaes
+Lucas Eduardo
+Tiago Felix
+Alehandro Henrique
+Amanda Lourdes
 
 - Descrição do projeto
 - Funcionalidades e Demonstração da Aplicação
