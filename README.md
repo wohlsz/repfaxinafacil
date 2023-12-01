@@ -14,4 +14,3 @@
 - Pessoas Contribuidoras
 - Pessoas Desenvolvedoras do Projeto
 - Licença 
-  oi
