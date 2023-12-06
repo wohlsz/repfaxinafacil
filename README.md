@@ -1,4 +1,4 @@
-<h1 align="center"> Título e Imagem de capa </h1>
+<h1 align="center"> Faxina Facil </h1>
 
 ![faxina facil](https://github.com/wohlsz/repfaxinafacil/assets/122848312/0f7c3e69-7cae-4553-b284-9c30903b5804)
 
@@ -18,7 +18,7 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa]([#Título-e-Imagem-de-capa](https://github.com/wohlsz/repfaxinafacil/assets/122848312/0f7c3e69-7cae-4553-b284-9c30903b5804))
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
