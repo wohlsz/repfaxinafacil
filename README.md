@@ -38,4 +38,4 @@
   Luiz Neto 
 
   # Badges
-  [![Badge de Status de Construção](https://img.shields.io/travis/usuario/nome-do-repositorio)](https://travis-ci.org/usuario/nome-do-repositorio)
+  [![Badge de Status de Construção](https://img.shields.io/travis/usuario/nome-do-repositorio)](https://travis-ci.org/wohlsz/repfaxinafacil)
