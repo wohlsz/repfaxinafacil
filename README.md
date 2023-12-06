@@ -9,18 +9,13 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# Equipe
-  Guilherme Magalhaes ||
-  Lucas Eduardo ||
-  Tiago Felix ||
-  Alehandro Henrique ||
-  Amanda Lourdes ||
-  Luiz Neto 
+
 
 
 # Índice 
 
 * [Título e Imagem de capa](#título-e-imagem-de-capa)
+* [Equipe](#Equipe)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -32,3 +27,12 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+
+# Equipe
+  Guilherme Magalhaes ||
+  Lucas Eduardo ||
+  Tiago Felix ||
+  Alehandro Henrique ||
+  Amanda Lourdes ||
+  Luiz Neto 
