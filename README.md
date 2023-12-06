@@ -38,4 +38,4 @@
   Luiz Neto 
 
   # Badges
-  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+  [![Badge de Status de Construção](https://img.shields.io/travis/usuario/nome-do-repositorio)](https://travis-ci.org/usuario/nome-do-repositorio)
